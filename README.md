@@ -20,3 +20,6 @@ or Run by docker compose
 
 test
 
+# Authors
+- [Puneeth Maraka] (https://github.com/Puneeth-30) - Web Developer
+- [Ashish Kodumuru](https://github.com/ASHISH15012005) - Dev Operations
